@@ -1,0 +1,17 @@
+{
+  "PiBlockexplorerSettings": {
+    "ApiBaseUrl": "https://api.mainnet.minepi.com/",
+    "BlockchainDescriptor": {
+      "ChainId": 111123,
+      "ChainName": "Pi Network",
+      "BlockchainName": "Pi Network",
+      "BlockchainSlug": "pi-network",
+      "BlockExplorerUrls": [
+        "https://minepi.com/blockexplorer/"
+      ],
+      "RPCUrls": null,
+      "IsEVMCompatible": false,
+      "SBTContractAddresses": null
+    }
+  }
+}
